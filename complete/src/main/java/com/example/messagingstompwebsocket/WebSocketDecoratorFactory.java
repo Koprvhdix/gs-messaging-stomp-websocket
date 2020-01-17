@@ -1,4 +1,4 @@
-package hello;
+package com.example.messagingstompwebsocket;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.CloseStatus;
